@@ -1,44 +1,55 @@
-# Will you be my valentine?
+💖 Will You Be My Valentine?
 
-**Valentine Page Creator**: https://i143.xyz/create
+Welcome to Will You Be My Valentine? – a beautifully designed website to celebrate love! 🌹💌
 
+✨ Features
 
-## Custom Templates
-Click on the template of your choice, and create your valentine pages under 1 minute. : https://i143.xyz/templates
+💕 Romantic and elegant design
 
-- **100% Free**. 🆓
-- Easy to Use. **No Codeing** required. 🎉
-- With **custom subdomain** of your choice (Obviously not claimed by anyone else). 🌍
-- With **custom texts** of your choice. 💬
-- With **custom images** of your choice. 👩‍❤️‍👨
-- With **40 Beautiful** templates to start from. 🤩
+🎶 Background music for a lovely experience
 
+🌹 Interactive animations & effects
 
-# Demo
-Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
+📩 Surprise message for your Valentine
 
+🚀 Live Preview
 
-# Description
-This is a fun project for valentines day to bring smile on face of your special person!!
+Click here to view the live website (Add your live link here)
 
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
+🛠️ Tech Stack
 
-# How to start
-```
-npm install -g pnpm
-pnpm i
+Frontend: HTML, CSS, JavaScript
+
+Framework: Vite (for fast development)
+
+📂 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/AyushNamboodiri/will-you-be-my-valentine.git
+
+Navigate to the project folder:
+
+cd will-you-be-my-valentine
+
+Install dependencies:
+
+pnpm install  # Or use npm install / yarn install
+
+Start the development server:
+
 pnpm run dev
-```
 
-# Preview
+Open the website in your browser at:
 
-![image description](demo.gif)
+http://localhost:5173
 
+💌 Contribute
 
-# How to deploy it
-```
-pnpm run deploy
-```
+Want to add new features? Feel free to fork the repository and submit a pull request! 😊
 
-Made with ❤️ in Berlin!
+📜 License
+
+This project is open-source under the MIT License.
+
+Made with ❤️ by AyushNamboodiri
